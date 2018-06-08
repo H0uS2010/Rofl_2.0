@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Player : MonoBehaviour {
-    public float speed = 50f;
+    public float speed = 100f;
     public float rotSpeed = 4000f;
     public float jumpSpeed = 30;
     GameController gameController;
